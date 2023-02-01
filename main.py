@@ -62,3 +62,46 @@ park_cars(cars)
 
 # output the parking lot to see all the occupied spots
 print(total_spots)
+
+
+# Sample Output
+# License plate: 1738452
+# Car with license plate 1738452 parked successfully in spot 16
+# License plate: 2731491
+# Car with license plate 2731491 parked successfully in spot 11
+# License plate: 3721984
+# Car with license plate 3721984 parked successfully in spot 15
+# License plate: 9732819
+# Car with license plate 9732819 parked cannot be parked in spot 15
+# Car with license plate 9732819 parked successfully in spot 0
+# License plate: 4327981
+# Car with license plate 4327981 parked successfully in spot 13
+# License plate: 1131486
+# Car with license plate 1131486 parked successfully in spot 14
+# License plate: 1134653
+# Car with license plate 1134653 parked cannot be parked in spot 15
+# Car with license plate 1134653 parked successfully in spot 1
+# License plate: 1232353
+# Car with license plate 1232353 parked successfully in spot 4
+# License plate: 8974565
+# Car with license plate 8974565 parked cannot be parked in spot 11
+# Car with license plate 8974565 parked successfully in spot 2
+# License plate: 8977463
+# Car with license plate 8977463 parked successfully in spot 12
+# License plate: 9874532
+# Car with license plate 9874532 parked cannot be parked in spot 12
+# Car with license plate 9874532 parked successfully in spot 3
+# License plate: 9084321
+# Car with license plate 9084321 parked cannot be parked in spot 11
+# Car with license plate 9084321 parked successfully in spot 5
+# License plate: 2365921
+# Car with license plate 2365921 parked cannot be parked in spot 13
+# Car with license plate 2365921 parked successfully in spot 6
+# License plate: 5432617
+# Car with license plate 5432617 parked cannot be parked in spot 0
+# Car with license plate 5432617 parked successfully in spot 7
+# License plate: 1453721
+# Car with license plate 1453721 parked cannot be parked in spot 3
+# Car with license plate 1453721 parked successfully in spot 8
+# [9732819, 1134653, 8974565, 9874532, 1232353, 9084321, 2365921, 5432617, 1453721, 0, 0, 2731491, 8977463, 4327981,
+# 1131486, 3721984, 1738452, 0, 0, 0]

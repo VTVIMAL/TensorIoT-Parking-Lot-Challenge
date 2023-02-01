@@ -2,7 +2,7 @@ import random
 
 
 class ParkingLot:
-    """ Takes the total area of the parking lot and the area of a since parking_spot and find total capacity of the
+    """ Takes the total area of the parking lot and the area of a parking_spot and find total capacity of the
     parking lot """
     def __init__(self, total_area, spot_area):
         self.total_area = total_area
